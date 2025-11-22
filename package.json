@@ -1,3 +1,9 @@
-"scripts": {
-  "start": "node system-info.js"
+{
+  "name": "system-info-app",
+  "version": "1.0.0",
+  "main": "fileSystem.js",
+  "scripts": {
+    "start": "node fileSystem.js"
+  },
+  "dependencies": {}
 }
